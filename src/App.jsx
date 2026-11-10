@@ -188,6 +188,7 @@ function App() {
             </div>
 
             <div className="table-scroll">
+              
               <table>
                 <thead><tr><th>EMPLOYEE</th><th>EMPLOYEE ID</th><th>ROLE / POSITION</th><th>STATUS</th><th className="action-heading">ACTION</th></tr></thead>
                 <tbody>
